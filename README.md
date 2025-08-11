@@ -1,24 +1,17 @@
-广告时间:兜售域名:weixin.pet;namenode.cn
-<p align="center">
-    <h1 align="center">EasyDingTalk</h1>
-</p>
+DingTalk2
+===============
+
 原项目地址：https://github.com/mingyoung/dingtalk。
-由于原项目停止维护了，暂时先copy一份下来，修修。
+由于原项目停止维护了，自用打包一份
 ## 当前食用方式
 
-composer require chinakaiyuan/dingtalk
-
+composer require ilovelylong/dingtalk2
 
 ## 环境要求
-
 -   PHP 7.1+
 -   Composer
 ## 文档
- 
  https://www.kancloud.cn/chinakaiyuan/dingtalk-sdk/
- 
-## demo 可查看实例
-https://gitee.com/chinakaiyuan/laravelgrid
 
 ## 实例化
 
