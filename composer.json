@@ -1,5 +1,5 @@
 {
-    "name": "chinakaiyuan/dingtalk",
+    "name": "ilovelylong/dingtalk2",
     "description": "EasyDingTalk, Alibaba Dingtalk SDK for PHP",
     "keywords": [
         "dingtalk",
@@ -7,13 +7,12 @@
         "easydingtalk",
         "sdk",
         "钉钉"
-
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "张铭阳",
-            "email": "mingyoungcheung@gmail.com"
+            "name": "ilovelylong",
+            "email": "ilovelylong@gmail.com"
         }
     ],
     "require": {
